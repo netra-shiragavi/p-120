@@ -1,0 +1,34 @@
+h1{
+    background-color: #5F6769;
+    color: black;
+    border-radius: 20px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+body{
+    background-color: #3C4245;
+    color: black;
+}
+
+.mnm{
+    background-color: #719192;
+    border-radius: 30%;
+    text-align: center;
+}
+
+.gl{
+    background-color: #719192;
+    border-radius: 30%;
+    text-align: center;
+}
+
+#rslt{
+    
+    font-size: 13px;
+}
+
+.ti{
+    background-color: #719192;
+    border-radius: 30%;
+    text-align: center;
+}
